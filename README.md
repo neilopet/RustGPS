@@ -10,3 +10,5 @@ This was the client for our GPS app which allowed myself and a select few of my 
 This code hasn't been updated since February 17th, 2014 so I'm not sure if it still works.
 
 As always, use it responsibly.
+
+P.S. Please disregard the mess.  It was never revised because of the time sensitivity of the project.  It's a cheat and we wanted our fun before the window closed.
